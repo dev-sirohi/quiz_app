@@ -1,16 +1,7 @@
 # quiz_app
 
-A new Flutter project.
+A Quiz App that fetches questions from an API.
+Built using Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (418)](https://user-images.githubusercontent.com/74674617/196117119-013daea0-3455-40a8-aeb9-b17b76d34542.png)
+![Screenshot (419)](https://user-images.githubusercontent.com/74674617/196117143-b3940040-86b2-4673-af7f-ad833c917448.png)
